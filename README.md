@@ -1,7 +1,8 @@
-Hi there! I'm Mamie and I'm currently a student at National Chung Hsing University.
-I am pursuing a major in Plant Pathology and a double major in Computer Science.
-I have always had a strong passion for plants and their diseases, and I believe that studying plant pathology will allow me to contribute to the development of sustainable agricultural practices.  
-On the other hand, I am also interested in computer science and its applications in various fields. I enjoy coding and developing software that can solve real-world problems.  
+# About Me
+🏫 I am a Computer Science and Plant Pathology bachelor from NCHU.
+🌟 I have a passion for exploring new things and learning interdisciplinary skills, which has led me to acquire various skill sets.
+❓ If you have any questions or would like to contact me, feel free to reach out via email at sciencemamie@gmail.com.
+Nice to meet you~
 
 
 
