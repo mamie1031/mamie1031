@@ -1,6 +1,6 @@
 # About Me
 🏫 I am a Computer Science and Plant Pathology bachelor from NCHU.  
-👩‍🎓 Currently studying Computer Science for a Master at NYCU.
+👩‍🎓 Currently studying Computer Science for a Master at NYCU.  
 🌟 I have a passion for explorings new things and learning interdisciplinary skills, which has led me to acquire various skill sets.  
 ❓ If you have any questions or would like to contact me, feel free to reach out via email at sciencemamie@gmail.com.  
 Nice to meet you~  
